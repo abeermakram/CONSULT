@@ -1,0 +1,242 @@
+@media only screen and (max-width:600px){
+    .nav{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 60px;
+}
+    .li1{
+        padding-left: 0;
+    }
+    .TowDivSec1{
+        display: flex;
+        flex-direction: column;
+    }
+    .father1section2{
+        display: flex;
+        flex-direction: column;
+    }
+    .father2section2{
+        display: flex;
+        flex-direction: column;
+    }
+    .containerSEC3{
+        display: flex;
+        flex-direction: column;
+    }
+    .containerSEC4{
+        display: flex;
+        flex-direction: column;
+    }
+    .containerSEC5{
+        display: flex;
+        flex-direction: column;
+    }
+    .TwoBoxSec6{
+        display: flex;
+        flex-direction: column;
+    }
+    .text4{
+        font-size: 15px;
+    }
+    .text41{
+        font-size: 15px;
+    }
+    .containerSEC7{
+        display: flex;
+        flex-direction: column;
+    }
+    .Emailfooter{
+        margin-left: 10px;
+        width: 300px;
+    }
+    input , .EnteredData{
+        display: block;
+    }
+    .txtSCE4 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .photoSCE4{
+        width: 100%;
+    }
+    .footer{
+        padding: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+    .txtOnPhoto{
+        width: 100%;
+    }
+    .text2{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width:600px){
+    .nav{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 60px;
+}
+    .li1{
+        padding-left: 0;
+    }
+    .TowDivSec1{
+        display: flex;
+        flex-direction: column;
+    }
+    .father1section2{
+        display: flex;
+        flex-direction: column;
+    }
+    .father2section2{
+        display: flex;
+        flex-direction: column;
+    }
+    .containerSEC3{
+        display: flex;
+        flex-direction: column;
+    }
+    .containerSEC4{
+        display: flex;
+        flex-direction: column;
+    }
+    .containerSEC5{
+        display: flex;
+        flex-direction: column;
+    }
+    .TwoBoxSec6{
+        display: flex;
+        flex-direction: column;
+    }
+    .text4{
+        font-size: 15px;
+    }
+    .text41{
+        font-size: 15px;
+    }
+    .containerSEC7{
+        display: flex;
+        flex-direction: column;
+    }
+    .Emailfooter{
+        margin-left: 10px;
+        width: 300px;
+    }
+    input , .EnteredData{
+        display: block;
+    }
+    .txtSCE4 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .photoSCE4{
+        width: 100%;
+    }
+    .footer{
+        padding: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+    .txtOnPhoto{
+        width: 100%;
+    }
+    .text2{
+        width: 100%;
+    }
+
+
+}
+@media only screen and (min-width:768px){
+    .nav{
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 60px;
+}
+    .li1{
+        padding-left: 200px;
+    }
+    .TowDivSec1{
+        display: flex;
+        flex-direction: row;
+    }
+    .father1section2{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .father2section2{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .containerSEC3{
+        display: flex;
+        flex-direction: row;
+    }
+    .containerSEC4{
+        display: flex;
+        flex-direction: row;
+    }
+    .containerSEC5{
+        display: flex;
+        flex-direction: row;
+    }
+    .TwoBoxSec6{
+        display: flex;
+        flex-direction: row;
+    }
+    .text4{
+        font-size: 15px;
+    }
+    .text41{
+        font-size: 15px;
+    }
+    .containerSEC7{
+        display: flex;
+        flex-direction: row;
+    }
+    .Emailfooter{
+        margin-left: 10px;
+        width: 90%;
+    }
+    input , .EnteredData{
+        display: block;
+    }
+    .txtSCE4 {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+    }
+    .photoSCE4{
+        width: 100%;
+    }
+    .footer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .serchfooter{
+        text-align: center;
+    }
+    .buttonfooter{
+        width: 200px;
+    }
+
+}
+@media only screen and (min-width:992px){
+  
+    .nav{
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 60px;
+}
+    .li1{
+        padding-left: 650px;
+    }
+}
+
+
+
